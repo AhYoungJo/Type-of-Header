@@ -1,0 +1,20 @@
+.header {
+	height: 100%;
+	width: 100%;
+	background-color: rgb(248, 247, 246);
+}
+
+.section {
+	border: 1px solid #ccc;
+	height: 30px;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	align-items: center;
+}
+
+.section ul {
+	margin: 0 16px;
+	padding-inline-start: 0px;
+}
